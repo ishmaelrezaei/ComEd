@@ -3,7 +3,7 @@
 In this research, we address the challenges of data dimension reduction by introducing an efficient strategy that minimizes computational cost. Our approach leverages the power of Reduced Basis Methods (RBMs), a class of techniques known for their ability to reduce the dimensionality of data efficiently. We applied this strategy to large-scale smart meter data, enhancing our capacity for precise electricity demand forecasting—a vital component in building resilient energy management strategies.
 ![GitHub Logo](https://github.com/ishmaelrezaei/ComEd/blob/main/FIGs/ComEd.PNG)
 
-To see more detail on RBD please refere to:
+To see an related paper on demand forecasing of smart-meter data please refere to:
 
   - N Alemazkoor, M Tootkaboni, R Nateghi, A Louhghalam. "[Smart-Meter Big Data for Load Forecasting: An Alternative Approach to Clustering](https://ieeexplore.ieee.org/document/9678362)." IEEE access (2022).
 
