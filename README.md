@@ -1,6 +1,7 @@
 # [Handling High-dimensional Data through Basis Reduction via Interactive Decomposition: Application to Smart Meter Big Data](https://ishmaelrezaei.github.io/ComEd/) in Python
 
 In this research, we address the challenges of data dimension reduction by introducing an efficient strategy that minimizes computational cost. Our approach leverages the power of Reduced Basis Methods (RBMs), a class of techniques known for their ability to reduce the dimensionality of data efficiently. We applied this strategy to large-scale smart meter data, enhancing our capacity for precise electricity demand forecasting—a vital component in building resilient energy management strategies.
+![GitHub Logo](https://github.com/ishmaelrezaei/ComEd/blob/main/FIGs/ComEd.PNG)
 
 To see more detail on RBD please refere to:
 
